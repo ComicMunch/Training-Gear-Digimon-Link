@@ -1,5 +1,5 @@
 # Training-Gear-Digimon-Link
-Training Gear: Digimon Link — authored and directed by Comic Munch. Official project hub for mechanics, visuals and documentation.
+Training Gear: Digimon Link — produced, authored and directed by Comic Munch. Official project hub for mechanics, visuals and documentation.
 System Structure
 Understanding How Comic Munch Structured the Training Gear: Digimon Link System
 This section outlines the underlying design logic used to construct Digimon Link as a unified system. It reflects the intentional framework decisions made in its architecture, including how mechanics, progression, and visual language were organized into a coherent structure.
