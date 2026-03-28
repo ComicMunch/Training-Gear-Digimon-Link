@@ -1,5 +1,14 @@
-title: Training Gear: Digimon Link
+cff-version: 1.2.0
+message: "If you use this software expansion or its logic, please cite the Author as follows."
 authors:
-
-name: Comic Munch
-role: Author, Architect, and Director
+  - family-names: "Munch"
+    given-names: "Comic"
+    alias: "@comic_munch"
+title: "Training Gear: Digimon Link"
+version: 4.0.0
+date-released: 2026-03-28
+url: "https://github.com/ComicMunch/Training-Gear-Digimon-Link"
+repository-code: "https://archive.org/details/training-gear-digimon-link-manual-comic-munch"
+type: software
+role: "Architect, Director, and Primary Project Funder"
+abstract: "The official expansion and systems logic for the Bandai Vital Bracelet ecosystem, directed and produced by Comic Munch."
